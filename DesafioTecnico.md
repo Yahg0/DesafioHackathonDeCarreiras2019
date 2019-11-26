@@ -88,5 +88,5 @@ Inicialmente, pensei em apresentar essa entrega utilizando algumas técnicas mai
 
 Para o meu caso, Trello + google sheets + Matriz de riscos + Uma pequena pesquisa cargos e salários me atenderam muito bem e pude me divertir desenvolvendo este case proposto pelo Hackathon de Carreiras.
 
-![](https://github.com/Yahg0/DesafioHackathonDeCarreiras2019/upload)
+![](https://github.com/Yahg0/DesafioHackathonDeCarreiras2019/blob/master/ThatsAllFolks.jpg)
 
