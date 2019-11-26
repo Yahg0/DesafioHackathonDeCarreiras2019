@@ -14,21 +14,21 @@ A solução proposta foi desenvolvida com base nas estórias dos usuários e no 
 
 Os riscos do projeto foram levantados, analisados e priorizados através de uma matriz de riscos. Abaixo da tabela/matriz encontra-se a legenda para identificação dos elementos graficos.
 
-![](https://github.com/Yahg0/DesafioHackathonDeCarreiras2019/blob/master/Matriz%20de%20riscos.JPG)
+![](https://github.com/Yahg0/DesafioHackathonDeCarreiras2019/blob/master/Imagens/Matriz%20de%20riscos.JPG)
 
 ##### Legenda:
 
-![](https://github.com/Yahg0/DesafioHackathonDeCarreiras2019/blob/master/Legenda.JPG)
+![](https://github.com/Yahg0/DesafioHackathonDeCarreiras2019/blob/master/Imagens/Legenda.JPG)
 
 ## Entregas
 
 Primeiramente foi gerado um **backlog geral** das tasks do projeto utilizando a técnica Kanban 
 
-![](https://github.com/Yahg0/DesafioHackathonDeCarreiras2019/blob/master/Backlog.JPG)
+![](https://github.com/Yahg0/DesafioHackathonDeCarreiras2019/blob/master/Imagens/Backlog.JPG)
 
 Após termos um backlog, foi possivel trabalhar na priorização das tasks e **quantidade de entregas** planejadas. As entregas foram planejadas de forma a atender os requisitos minimos para o funcionamento da academia, ou seja, as principais funcionalidades serão entregues primeiro.
 
-![](https://github.com/Yahg0/DesafioHackathonDeCarreiras2019/blob/master/Entregas.JPG)
+![](https://github.com/Yahg0/DesafioHackathonDeCarreiras2019/blob/master/Imagens/Entregas.JPG)
 
 ## Equipe 
 
@@ -64,19 +64,19 @@ Jr, PL e SR).
 
 ##### 1º entrega
 
-![](https://github.com/Yahg0/DesafioHackathonDeCarreiras2019/blob/master/Primeira%20entrega.JPG)
+![](https://github.com/Yahg0/DesafioHackathonDeCarreiras2019/blob/master/Imagens/Primeira%20entrega.JPG)
 
 ##### 2º entrega
 
-![](https://github.com/Yahg0/DesafioHackathonDeCarreiras2019/blob/master/Segunda%20entrega.JPG)
+![](https://github.com/Yahg0/DesafioHackathonDeCarreiras2019/blob/master/Imagens/Segunda%20entrega.JPG)
 
 ##### 3º entrega
 
-![](https://github.com/Yahg0/DesafioHackathonDeCarreiras2019/blob/master/Terceira%20entrega.JPG)
+![](https://github.com/Yahg0/DesafioHackathonDeCarreiras2019/blob/master/Imagens/Terceira%20entrega.JPG)
 
 ##### 4º entrega
 
-![](https://github.com/Yahg0/DesafioHackathonDeCarreiras2019/blob/master/Quarta%20entrega.JPG)
+![](https://github.com/Yahg0/DesafioHackathonDeCarreiras2019/blob/master/Imagens/Quarta%20entrega.JPG)
 
 ---
 
@@ -84,9 +84,9 @@ Jr, PL e SR).
 
 Inicialmente, pensei em apresentar essa entrega utilizando algumas técnicas mais elaboradas na qual ja pude utilizar, como Roadmap do produto, técnica MosCow de priorização, templates de gestão de riscos que utilizei em outros projetos, Blueprints, Planning poker para as tasks... porém no fundo segui o simples porém conhecido principio KISS (Keep It Simple, Stupid!).
 
-![](https://github.com/Yahg0/DesafioHackathonDeCarreiras2019/blob/master/kiss.gif)
+![](https://github.com/Yahg0/DesafioHackathonDeCarreiras2019/blob/master/Imagens/kiss.gif)
 
 Para o meu caso, Trello + google sheets + Matriz de riscos + Uma pequena pesquisa cargos e salários me atenderam muito bem e pude me divertir desenvolvendo este case proposto pelo Hackathon de Carreiras.
 
-![](https://github.com/Yahg0/DesafioHackathonDeCarreiras2019/blob/master/ThatsAllFolks.jpg)
+![](https://github.com/Yahg0/DesafioHackathonDeCarreiras2019/blob/master/Imagens/ThatsAllFolks.jpg)
 
