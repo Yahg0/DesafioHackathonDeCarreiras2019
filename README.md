@@ -61,19 +61,22 @@ Jr, PL e SR).
 - Hora do QA Tester: R$17,55
 
 ##### 1º entrega
-O time todo foi alocado para o desenvolvimento da primeira entrega
+► O time todo foi alocado para o desenvolvimento da primeira entrega
+
 ![](https://github.com/Yahg0/DesafioHackathonDeCarreiras2019/blob/master/Imagens/Primeira%20entrega.JPG)
 
 ##### 2º entrega
-Novamente todos foram alocados para o desenvolvimento da segunda entrega
+► Novamente todos foram alocados para o desenvolvimento da segunda entrega
+
 ![](https://github.com/Yahg0/DesafioHackathonDeCarreiras2019/blob/master/Imagens/Segunda%20entrega.JPG)
 
 ##### 3º entrega
-Na terceira entrega todos participaram também
+► Na terceira entrega todos participaram também
+
 ![](https://github.com/Yahg0/DesafioHackathonDeCarreiras2019/blob/master/Imagens/Terceira%20entrega.JPG)
 
 ##### 4º entrega
-O quadro foi reduzido devido a menor quantidade de tasks a serem entregues
+► O quadro foi reduzido devido a menor quantidade de tasks a serem entregues
 
 ![](https://github.com/Yahg0/DesafioHackathonDeCarreiras2019/blob/master/Imagens/Quarta%20entrega.JPG)
 
