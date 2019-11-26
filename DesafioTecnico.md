@@ -6,29 +6,29 @@ Desafio proposto para a trilha de Projeto de sistemas
 
 ## Introdução: 
 
->O projeto consiste no desenvolvimento de um sistema de monitoramento e controle de alunos de uma academia de grande porte. 
->
->A solução proposta foi desenvolvida com base nas estórias dos usuários e no cenario previamente apresentados.
+O projeto consiste no desenvolvimento de um sistema de monitoramento e controle de alunos de uma academia de grande porte. 
+
+A solução proposta foi desenvolvida com base nas estórias dos usuários e no cenario previamente apresentados.
 
 ## Riscos
 
 Os riscos do projeto foram levantados, analisados e priorizados através de uma matriz de riscos. Abaixo da tabela/matriz encontra-se a legenda para identificação dos elementos graficos.
 
-<img src=”https://github.com/Yahg0/DesafioHackathonDeCarreiras2019/blob/master/Matriz%20de%20riscos.JPG”>
+![](https://github.com/Yahg0/DesafioHackathonDeCarreiras2019/blob/master/Matriz%20de%20riscos.JPG)
 
 ##### Legenda:
 
-<img src=”https://github.com/Yahg0/DesafioHackathonDeCarreiras2019/blob/master/Legenda.JPG”>
+![](https://github.com/Yahg0/DesafioHackathonDeCarreiras2019/blob/master/Legenda.JPG)
 
 ## Entregas
 
 Primeiramente foi gerado um **backlog geral** das tasks do projeto utilizando a técnica Kanban 
 
-<img src=”https://github.com/Yahg0/DesafioHackathonDeCarreiras2019/blob/master/Backlog.JPG”>
+![](https://github.com/Yahg0/DesafioHackathonDeCarreiras2019/blob/master/Backlog.JPG)
 
 Após termos um backlog, foi possivel trabalhar na priorização das tasks e **quantidade de entregas** planejadas. As entregas foram planejadas de forma a atender os requisitos minimos para o funcionamento da academia, ou seja, as principais funcionalidades serão entregues primeiro.
 
-<img src=”https://github.com/Yahg0/DesafioHackathonDeCarreiras2019/blob/master/Entregas.JPG”>
+![](https://github.com/Yahg0/DesafioHackathonDeCarreiras2019/blob/master/Entregas.JPG)
 
 ## Equipe 
 
@@ -44,11 +44,11 @@ Após avaliar a quantiade de entregas e o tempo de cada uma, foi possivel mensur
   
 - 1 Ux/Ui Designer
 
->O designer que trabalhará tanto com experiência, quanto com interfaces, será responsavel por manter a experiÊncia do usuario com o sistema em harmonia, de modo a facilitar o trabalho dos devs, prototipando as interfaces do sistemas e mantendo o time informado das necessidades do projeto em visão do cliente.
+  >O designer que trabalhará tanto com experiência, quanto com interfaces, será responsavel por manter a experiÊncia do usuario com o sistema em harmonia, de modo a facilitar o trabalho dos devs, prototipando as interfaces do sistemas e mantendo o time informado das necessidades do projeto em visão do cliente.
 
 - 1 QA tester
 
->O tester será responsável por validar todas as funcionalidades desenvolvidas, sendo ele o criador dos casos e cenários de testes, e também o responsável por desenvolver testes automatizados/performance/caixa branca/caixa preta/performance entre outros...
+  >O tester será responsável por validar todas as funcionalidades desenvolvidas, sendo ele o criador dos casos e cenários de testes, e também o responsável por desenvolver testes automatizados/performance/caixa branca/caixa preta/performance entre outros...
 
 ## Custo
 
@@ -64,19 +64,29 @@ Jr, PL e SR).
 
 ##### 1º entrega
 
-<img src=”https://github.com/Yahg0/DesafioHackathonDeCarreiras2019/blob/master/Primeira%20entrega.JPG”>
+![](https://github.com/Yahg0/DesafioHackathonDeCarreiras2019/blob/master/Primeira%20entrega.JPG)
 
 ##### 2º entrega
 
-<img src=”https://github.com/Yahg0/DesafioHackathonDeCarreiras2019/blob/master/Segunda%20entrega.JPG”>
+![](https://github.com/Yahg0/DesafioHackathonDeCarreiras2019/blob/master/Segunda%20entrega.JPG)
 
 ##### 3º entrega
 
-<img src=”https://github.com/Yahg0/DesafioHackathonDeCarreiras2019/blob/master/Terceira%20entrega.JPG”>
+![](https://github.com/Yahg0/DesafioHackathonDeCarreiras2019/blob/master/Terceira%20entrega.JPG)
 
 ##### 4º entrega
 
-<img src=”https://github.com/Yahg0/DesafioHackathonDeCarreiras2019/blob/master/Quarta%20entrega.JPG”>
+![](https://github.com/Yahg0/DesafioHackathonDeCarreiras2019/blob/master/Quarta%20entrega.JPG)
 
+---
 
+## Conclusão
+
+Inicialmente, pensei em apresentar essa entrega utilizando algumas técnicas mais elaboradas na qual ja pude utilizar, como Roadmap do produto, técnica MosCow de priorização, templates de gestão de riscos que utilizei em outros projetos, Blueprints, Planning poker para as tasks... porém no fundo segui o simples porém conhecido principio KISS (Keep It Simple, Stupid!).
+
+![](https://github.com/Yahg0/DesafioHackathonDeCarreiras2019/blob/master/kiss.gif)
+
+Para o meu caso, Trello + google sheets + Matriz de riscos + Uma pequena pesquisa cargos e salários me atenderam muito bem e pude me divertir desenvolvendo este case proposto pelo Hackathon de Carreiras.
+
+![](https://github.com/Yahg0/DesafioHackathonDeCarreiras2019/upload)
 
