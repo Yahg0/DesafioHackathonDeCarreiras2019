@@ -1,8 +1,6 @@
 # Desafio Hackathon De Carreiras 2019
 
-Desafio proposto do Hackathon edição de TI 2019
-
-Desafio proposto para a trilha de Projeto de sistemas
+Desafio proposto do Hackathon edição de TI 2019 na stack: Projeto de sistemas
 
 ## Introdução: 
 
