@@ -80,7 +80,8 @@ Jr, PL e SR).
 
 ![](https://github.com/Yahg0/DesafioHackathonDeCarreiras2019/blob/master/Imagens/Quarta%20entrega.JPG)
 
-###### Total: R$24.395,00
+###### Custo Total: R$24.395,00
+###### Tempo Total: 160 horas
 
 ---
 
